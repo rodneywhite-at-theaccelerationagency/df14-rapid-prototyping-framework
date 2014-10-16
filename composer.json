@@ -1,0 +1,25 @@
+{
+    "description": "The Acceleration Agency's Force.com canvas app prototyping framework",
+    "keywords": ["force.com", "canvas" , "php", "hhvm"],
+    "homepage": "http://taa.io/",
+    "type": "framework",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rodney White",
+            "email": "rodney@taa.io",
+            "homepage": "http://www.taa.io"
+        }
+    ],
+    "support": {
+          "email": "no-support@taa.io"
+    },
+    "require": {
+        "php": "~5.4",
+        "hhvm": "~3.2",
+        "nginx": "*",
+        "torophp/torophp": "dev-master",
+        "mustache/mustache": ">2.0"
+    }
+
+}

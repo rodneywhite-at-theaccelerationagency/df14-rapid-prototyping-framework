@@ -1,0 +1,15 @@
+<html>
+<head>
+<style>
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+</style>
+</head>
+<body>
+
+</body>
+</html>
