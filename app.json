@@ -1,0 +1,22 @@
+{
+  "name": "PHP Framework for force.com canvas apps on heroku",
+  "description": "A framework for getting started with the  framework.",
+  "website": "http://www.taa.io",
+  "success_url": "/df14/",
+  "addons": [ "papertrail"],
+  "env": {
+    "consumer_secret": {
+            "description": "The Secret from the force.com canvas app",            
+            "required": true
+    },
+    "consumer_key": {
+            "description": "The Key from the force.com canvas app",
+            "required": true
+    },
+    "oauth_callback": {
+            "description": "The oauth callback.",
+            "required": true
+    },
+
+  },
+}
