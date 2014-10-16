@@ -16,7 +16,7 @@
     "oauth_callback": {
             "description": "The oauth callback.",
             "required": true
-    },
+    }
 
-  },
+  }
 }
